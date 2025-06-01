@@ -1,0 +1,16 @@
+# Ignore Visual Studio / Rider / VS Code settings
+.vs/
+.idea/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+dist/
+
+# Node modules (frontend)
+node_modules/
+
+# Logs
+*.log
